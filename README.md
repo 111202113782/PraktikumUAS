@@ -1,2 +1,2 @@
 IDE Apache menggunakan Netbeans
-Kelompok Kenley & Alatas 
+Kelompok : Calvin, Kenley & Alatas 
